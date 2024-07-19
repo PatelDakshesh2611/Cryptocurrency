@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.4d910229.js",
+    "static/media/cryptocurrency-bitcoin-isolated-black-background-vector-out-cryptocurrency-bitcoin-isolated-black-background-vector-outline-119233698.webp": "/static/media/cryptocurrency-bitcoin-isolated-black-background-vector-out-cryptocurrency-bitcoin-isolated-black-background-vector-outline-119233698.75de642a5540b7be7477.webp",
+    "index.html": "/index.html",
+    "main.4d910229.js.map": "/static/js/main.4d910229.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4d910229.js"
+  ]
+}
